@@ -1,7 +1,7 @@
 ## CSS Coffee Shop
 
 <p align="center">
-<img width="850" src="images/1.png">
+<img width="1050" src="images/1.png">
 </p>
 
 <p align="center">
