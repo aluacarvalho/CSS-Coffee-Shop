@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-Site de cafeteria realizado a partir do módulo de frameworks oferecido pelo curso CSS Web Developer da [Digital Innovation One](https://www.dio.me/).
+Site de cafeteria realizado a partir do módulo de frameworks oferecido pelo curso CSS Web Developer da <a href="https://www.dio.me/">Digital Innovation One</a>.
 </p>
